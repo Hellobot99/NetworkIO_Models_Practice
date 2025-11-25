@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+00_bin/
+CSharp_OmokClient/
+omok_server/
+.vscode/
